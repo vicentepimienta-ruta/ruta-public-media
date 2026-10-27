@@ -1,0 +1,13 @@
+Narrator: kokoro:am_michael
+
+Now you can see what your AI Intent Gap may be costing you in time.
+
+More importantly, you can explore how much of that time you might recover by working more effectively with AI.
+
+We'll show the potential hours first, followed by an estimated value of that time.
+
+You may also explore a separate example of how supervised AI automation could help with repetitive work.
+
+These are illustrations, not guaranteed savings.
+
+After your training, we'll measure your AI Intent Gap again and compare it with your starting point.

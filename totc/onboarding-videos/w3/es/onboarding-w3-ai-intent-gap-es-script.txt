@@ -1,0 +1,13 @@
+Narrator: kokoro:em_alex
+
+A veces, la IA no entrega el resultado que esperabas.
+
+Puedes terminar dedicando tiempo extra a corregir respuestas, reescribir instrucciones o empezar de nuevo.
+
+Ese tiempo perdido es tu AI Intent Gap.
+
+En este paso lo estimaremos con unas preguntas sencillas sobre tu uso diario de la IA, los resultados que no funcionan y el tiempo que dedicas a corregirlos.
+
+Usa tus mejores estimaciones. No tienen que ser perfectas.
+
+Esto nos da un punto de partida. Después de tus diez horas de entrenamiento, volveremos a medir tu AI Intent Gap para comparar los resultados y establecer tu progreso.
