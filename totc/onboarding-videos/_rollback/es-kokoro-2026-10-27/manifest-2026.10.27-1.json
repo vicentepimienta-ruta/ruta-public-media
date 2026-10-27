@@ -1,0 +1,189 @@
+{
+  "manifestVersion": "2026.10.27-1",
+  "base": "https://media.rutamethod.com/totc/onboarding-videos",
+  "languages": [
+    "en",
+    "es"
+  ],
+  "statusLegend": {
+    "approved": "released and served",
+    "pending-release": "licensed master staged on a review branch; not yet served"
+  },
+  "narration": {
+    "engine": "Kokoro-82M v1.0 (kokoro-onnx 0.6.1, ONNX, offline CPU)",
+    "license": "Apache-2.0 (weights and voice packs)",
+    "source": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "voices": {
+      "en": "am_michael",
+      "es": "em_alex"
+    },
+    "model_sha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
+    "voices_sha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+    "disclosure": {
+      "en": "AI-generated narration",
+      "es": "Narración generada con IA"
+    }
+  },
+  "videos": {
+    "w1": {
+      "step": 1,
+      "wizardSection": "identity",
+      "title": {
+        "en": "Welcome to Your Learning Journey",
+        "es": "Bienvenido a tu viaje de aprendizaje"
+      },
+      "en": {
+        "status": "approved",
+        "version": "kokoro-2026-10-27",
+        "narrator": "kokoro:am_michael",
+        "duration_s": 31.46,
+        "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w1/en/onboarding-w1-welcome-en.mp4",
+        "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w1/en/onboarding-w1-welcome-en.vtt",
+        "poster": "https://media.rutamethod.com/totc/onboarding-videos/w1/en/onboarding-w1-welcome-en-poster.png",
+        "captionsLanguage": "en",
+        "sha256_mp4": "e71a20d8abb0f22ce9efae57b2581b76bfc09a5bb80e4fad7c4a5a2a269d87ae",
+        "sha256_vtt": "cc679f7f6f25d437b6a30b028e235875b6f6abf6cffadafc95e80ac7194b404e"
+      },
+      "es": {
+        "status": "approved",
+        "version": "kokoro-2026-10-27",
+        "narrator": "kokoro:em_alex",
+        "duration_s": 34.81,
+        "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w1/es/onboarding-w1-welcome-es.mp4",
+        "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w1/es/onboarding-w1-welcome-es.vtt",
+        "poster": "https://media.rutamethod.com/totc/onboarding-videos/w1/es/onboarding-w1-welcome-es-poster.png",
+        "captionsLanguage": "es",
+        "sha256_mp4": "25e03d9b3d4cec6b5bb5ea12d5fe1595766e2efed7b97cfae7a8def683b0abe7",
+        "sha256_vtt": "c0fd774ae91297de19ebc11f63f3ac5b82c17b59e155cf5491f851c75b0e4668"
+      }
+    },
+    "w2": {
+      "step": 2,
+      "wizardSection": "ai_status",
+      "title": {
+        "en": "Your AI Experience",
+        "es": "Tu experiencia con la IA"
+      },
+      "en": {
+        "status": "approved",
+        "version": "kokoro-2026-10-27",
+        "narrator": "kokoro:am_michael",
+        "duration_s": 45.1,
+        "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w2/en/onboarding-w2-ai-experience-en.mp4",
+        "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w2/en/onboarding-w2-ai-experience-en.vtt",
+        "poster": "https://media.rutamethod.com/totc/onboarding-videos/w2/en/onboarding-w2-ai-experience-en-poster.png",
+        "captionsLanguage": "en",
+        "sha256_mp4": "60c49a0430a3e61ffb8a3e168b8b8053f799fa637f9ba7c9f6c2018e6993b625",
+        "sha256_vtt": "2b0cbf3682074a76e162585831d7d30dc8efa71e5bd2c66236032d76a0d745e2"
+      },
+      "es": {
+        "status": "approved",
+        "version": "kokoro-2026-10-27",
+        "narrator": "kokoro:em_alex",
+        "duration_s": 46.24,
+        "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w2/es/onboarding-w2-ai-experience-es.mp4",
+        "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w2/es/onboarding-w2-ai-experience-es.vtt",
+        "poster": "https://media.rutamethod.com/totc/onboarding-videos/w2/es/onboarding-w2-ai-experience-es-poster.png",
+        "captionsLanguage": "es",
+        "sha256_mp4": "16469047279ceea8cb271992090bc49f812873d9465d76b2d253f91745ce3bb7",
+        "sha256_vtt": "22fe935ce735d1478093c72b2d83d9aa8a1f433a4337f6875371228121a3a9fa"
+      }
+    },
+    "w3": {
+      "step": 3,
+      "wizardSection": "intent_gap",
+      "title": {
+        "en": "Measure Your AI Intent Gap",
+        "es": "Mide tu AI Intent Gap"
+      },
+      "en": {
+        "status": "approved",
+        "version": "kokoro-2026-10-27",
+        "narrator": "kokoro:am_michael",
+        "duration_s": 48.36,
+        "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w3/en/onboarding-w3-ai-intent-gap-en.mp4",
+        "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w3/en/onboarding-w3-ai-intent-gap-en.vtt",
+        "poster": "https://media.rutamethod.com/totc/onboarding-videos/w3/en/onboarding-w3-ai-intent-gap-en-poster.png",
+        "captionsLanguage": "en",
+        "sha256_mp4": "4cb2e5067e7a466629eb2dfae456eb4c49b407cf133d3eba52d08cf4b05b274b",
+        "sha256_vtt": "ef415ec7593d830f7e7bee90c3eb1a1bbe30cac87fb049cf9e4aa8594076bc74"
+      },
+      "es": {
+        "status": "approved",
+        "version": "kokoro-2026-10-27",
+        "narrator": "kokoro:em_alex",
+        "duration_s": 48.51,
+        "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w3/es/onboarding-w3-ai-intent-gap-es.mp4",
+        "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w3/es/onboarding-w3-ai-intent-gap-es.vtt",
+        "poster": "https://media.rutamethod.com/totc/onboarding-videos/w3/es/onboarding-w3-ai-intent-gap-es-poster.png",
+        "captionsLanguage": "es",
+        "sha256_mp4": "01d5e8033133c4a32c8b029add3368f121d4d3371e2b8eb90670feee4051f722",
+        "sha256_vtt": "9bd442a31487f364c573166d46d6850db9fb3a5109ffe3f2c28d6a8c38682b6f"
+      }
+    },
+    "w4": {
+      "step": 4,
+      "wizardSection": "expectations",
+      "title": {
+        "en": "Understand Your Productivity Opportunity",
+        "es": "Tu oportunidad de productividad"
+      },
+      "en": {
+        "status": "approved",
+        "version": "kokoro-2026-10-27",
+        "narrator": "kokoro:am_michael",
+        "duration_s": 46.93,
+        "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w4/en/onboarding-w4-productivity-opportunity-en.mp4",
+        "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w4/en/onboarding-w4-productivity-opportunity-en.vtt",
+        "poster": "https://media.rutamethod.com/totc/onboarding-videos/w4/en/onboarding-w4-productivity-opportunity-en-poster.png",
+        "captionsLanguage": "en",
+        "sha256_mp4": "be33c61bd24210c687e9828fab7ee0651fafa669b5bdbc76cfeab036e07dfd77",
+        "sha256_vtt": "71698c57da662f88b7c32629e32f64d217eb1a7facd08d6d4e5dc53201503c96"
+      },
+      "es": {
+        "status": "approved",
+        "version": "kokoro-2026-10-27",
+        "narrator": "kokoro:em_alex",
+        "duration_s": 47.74,
+        "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w4/es/onboarding-w4-productivity-opportunity-es.mp4",
+        "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w4/es/onboarding-w4-productivity-opportunity-es.vtt",
+        "poster": "https://media.rutamethod.com/totc/onboarding-videos/w4/es/onboarding-w4-productivity-opportunity-es-poster.png",
+        "captionsLanguage": "es",
+        "sha256_mp4": "3c359d3ff549348f183db3522834db914b572987b52c8316a3410e1681c7a3cb",
+        "sha256_vtt": "247cdeca570efe36a364558fea267c96f064a54ede34e5cb0baa3c29e21771c3"
+      }
+    },
+    "w5": {
+      "step": 5,
+      "wizardSection": "enrollment",
+      "title": {
+        "en": "Your Transformation Starts Here",
+        "es": "Tu transformación comienza aquí"
+      },
+      "en": {
+        "status": "approved",
+        "version": "kokoro-2026-10-27",
+        "narrator": "kokoro:am_michael",
+        "duration_s": 52.67,
+        "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w5/en/onboarding-w5-transformation-starts-here-en.mp4",
+        "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w5/en/onboarding-w5-transformation-starts-here-en.vtt",
+        "poster": "https://media.rutamethod.com/totc/onboarding-videos/w5/en/onboarding-w5-transformation-starts-here-en-poster.png",
+        "captionsLanguage": "en",
+        "sha256_mp4": "d7491a247b85f364db0cf13d0c61682a8d309a9d9ce87feb1e96ba2fa9a7d5e1",
+        "sha256_vtt": "47dd3b2f82b0ccbcac120bcab89c72b856d973e5bd79d9b705a45b806edfc840"
+      },
+      "es": {
+        "status": "approved",
+        "version": "kokoro-2026-10-27",
+        "narrator": "kokoro:em_alex",
+        "duration_s": 52.57,
+        "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w5/es/onboarding-w5-transformation-starts-here-es.mp4",
+        "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w5/es/onboarding-w5-transformation-starts-here-es.vtt",
+        "poster": "https://media.rutamethod.com/totc/onboarding-videos/w5/es/onboarding-w5-transformation-starts-here-es-poster.png",
+        "captionsLanguage": "es",
+        "sha256_mp4": "7464a2806b9aa18ebc28f586b07cd94bbaf88440953631a6e64daba6ec2e5719",
+        "sha256_vtt": "6838cdf16f1196c9fa35317ee1d60bdce8f7d2306991cca819e775930ace72b4"
+      }
+    }
+  }
+}

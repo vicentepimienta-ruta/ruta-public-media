@@ -1,13 +1,1 @@
-Narrator: kokoro:em_alex
-
-A veces, la IA no entrega el resultado que esperabas.
-
-Puedes terminar dedicando tiempo extra a corregir respuestas, reescribir instrucciones o empezar de nuevo.
-
-Ese tiempo perdido es tu AI Intent Gap.
-
-En este paso lo estimaremos con unas preguntas sencillas sobre tu uso diario de la IA, los resultados que no funcionan y el tiempo que dedicas a corregirlos.
-
-Usa tus mejores estimaciones. No tienen que ser perfectas.
-
-Esto nos da un punto de partida. Después de tus diez horas de entrenamiento, volveremos a medir tu AI Intent Gap para comparar los resultados y establecer tu progreso.
+Vamos a explorar tu brecha de intención en el uso de la IA, definida como la distancia entre tus expectativas y los resultados reales. Recuerda, es solo una estimación inicial, no una evaluación. Para comenzar, completa los cuatro datos presentados en pantalla. Utiliza tu frecuencia de uso como referencia para estimar el tiempo que inviertes trabajando con IA. No busque cifras perfectas, solo aproximaciones honestas. Ahora, identifica dónde se produce la fricción. Considera el tiempo que pasas repitiendo instrucciones, editando resultados o realizando tareas manuales que esperabas automatizar. Separa este tiempo del uso productivo para una medición precisa. Tus respuestas servirán como punto de referencia para orientar nuestra conversación. No se trata de una calificación, sino de una base para identificar oportunidades de mejora y medir tu evolución tras el entrenamiento.

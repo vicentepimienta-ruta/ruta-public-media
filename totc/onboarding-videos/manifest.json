@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "2026.10.27-1",
+  "manifestVersion": "2026.10.27-2",
   "base": "https://media.rutamethod.com/totc/onboarding-videos",
   "languages": [
     "en",
@@ -15,13 +15,19 @@
     "source": "https://huggingface.co/hexgrad/Kokoro-82M",
     "voices": {
       "en": "am_michael",
-      "es": "em_alex"
+      "es": "director-supplied (approved 2026-10-27)"
     },
     "model_sha256": "beb0d1848dee9a49da392cc3df26958d46cfa35d321edf434f52949153f0df3a",
     "voices_sha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
     "disclosure": {
       "en": "AI-generated narration",
       "es": "Narración generada con IA"
+    },
+    "es_release": {
+      "date": "2026-10-27",
+      "source": "Director-supplied MP4 files (Drive folder 1d2oK9BZKf_9cdAQPR3ZK2acCCbmBvSWa), remuxed for web streaming (faststart), audio and video streams unchanged",
+      "captions": "generated from the narration audio (faster-whisper medium, es), spelling-checked",
+      "rollback": "https://media.rutamethod.com/totc/onboarding-videos/_rollback/es-kokoro-2026-10-27/"
     }
   },
   "videos": {
@@ -46,15 +52,17 @@
       },
       "es": {
         "status": "approved",
-        "version": "kokoro-2026-10-27",
-        "narrator": "kokoro:em_alex",
-        "duration_s": 34.81,
+        "version": "director-es-2026-10-27",
+        "narrator": "director-supplied",
+        "duration_s": 42.67,
         "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w1/es/onboarding-w1-welcome-es.mp4",
         "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w1/es/onboarding-w1-welcome-es.vtt",
         "poster": "https://media.rutamethod.com/totc/onboarding-videos/w1/es/onboarding-w1-welcome-es-poster.png",
         "captionsLanguage": "es",
-        "sha256_mp4": "25e03d9b3d4cec6b5bb5ea12d5fe1595766e2efed7b97cfae7a8def683b0abe7",
-        "sha256_vtt": "c0fd774ae91297de19ebc11f63f3ac5b82c17b59e155cf5491f851c75b0e4668"
+        "sha256_mp4": "346cbef7de477fc671c0e278a722883a515aede1069aa6698dfbe46b5882d063",
+        "sha256_vtt": "2ae3d8be5fe20a0f91d2233a65a9292ca739948254c090df0cc6e8515fc55731",
+        "source_file": "TOtC_W1_ES_Speaker_Notes_Storyboard.mp4",
+        "source_sha256": "e1fa4974a5d69d208a0ee89fbfbbd77976b1478f981bf65e5b48d34168989360"
       }
     },
     "w2": {
@@ -78,15 +86,17 @@
       },
       "es": {
         "status": "approved",
-        "version": "kokoro-2026-10-27",
-        "narrator": "kokoro:em_alex",
-        "duration_s": 46.24,
+        "version": "director-es-2026-10-27",
+        "narrator": "director-supplied",
+        "duration_s": 53.8,
         "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w2/es/onboarding-w2-ai-experience-es.mp4",
         "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w2/es/onboarding-w2-ai-experience-es.vtt",
         "poster": "https://media.rutamethod.com/totc/onboarding-videos/w2/es/onboarding-w2-ai-experience-es-poster.png",
         "captionsLanguage": "es",
-        "sha256_mp4": "16469047279ceea8cb271992090bc49f812873d9465d76b2d253f91745ce3bb7",
-        "sha256_vtt": "22fe935ce735d1478093c72b2d83d9aa8a1f433a4337f6875371228121a3a9fa"
+        "sha256_mp4": "3940040b5c1162b2bef160f372b37eb76d032e7ca8cd86fcc3c365b9c03a34b2",
+        "sha256_vtt": "82e173ccbf1bf5382ac29fa068638396e309df5675491c14f24c11d807de6c9a",
+        "source_file": "TOtC_W2_Experiencia_IA_ES_Speaker_Notes_Storyboard(1).mp4",
+        "source_sha256": "166c359defd0e443168f0364f0679784d636bec11af5e910446680974f6c92d1"
       }
     },
     "w3": {
@@ -110,15 +120,17 @@
       },
       "es": {
         "status": "approved",
-        "version": "kokoro-2026-10-27",
-        "narrator": "kokoro:em_alex",
-        "duration_s": 48.51,
+        "version": "director-es-2026-10-27",
+        "narrator": "director-supplied",
+        "duration_s": 55.38,
         "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w3/es/onboarding-w3-ai-intent-gap-es.mp4",
         "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w3/es/onboarding-w3-ai-intent-gap-es.vtt",
         "poster": "https://media.rutamethod.com/totc/onboarding-videos/w3/es/onboarding-w3-ai-intent-gap-es-poster.png",
         "captionsLanguage": "es",
-        "sha256_mp4": "01d5e8033133c4a32c8b029add3368f121d4d3371e2b8eb90670feee4051f722",
-        "sha256_vtt": "9bd442a31487f364c573166d46d6850db9fb3a5109ffe3f2c28d6a8c38682b6f"
+        "sha256_mp4": "1494903da46091d1924a0f732b003fa95c6c1d45e629368801a953cf1dc9664f",
+        "sha256_vtt": "cfa1fc2be192d15cb51d5192b3e95f659db38f8d9ae7d3fcdf55b0457e561693",
+        "source_file": "TOtC_W3_Brecha_Intencion_IA_ES_Speaker_Notes_Storyboard(1).mp4",
+        "source_sha256": "62d33db5aa983e674f029acc6cd3392faea0f05eff174f47a00964161bbdc004"
       }
     },
     "w4": {
@@ -142,15 +154,17 @@
       },
       "es": {
         "status": "approved",
-        "version": "kokoro-2026-10-27",
-        "narrator": "kokoro:em_alex",
-        "duration_s": 47.74,
+        "version": "director-es-2026-10-27",
+        "narrator": "director-supplied",
+        "duration_s": 59.49,
         "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w4/es/onboarding-w4-productivity-opportunity-es.mp4",
         "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w4/es/onboarding-w4-productivity-opportunity-es.vtt",
         "poster": "https://media.rutamethod.com/totc/onboarding-videos/w4/es/onboarding-w4-productivity-opportunity-es-poster.png",
         "captionsLanguage": "es",
-        "sha256_mp4": "3c359d3ff549348f183db3522834db914b572987b52c8316a3410e1681c7a3cb",
-        "sha256_vtt": "247cdeca570efe36a364558fea267c96f064a54ede34e5cb0baa3c29e21771c3"
+        "sha256_mp4": "658ccb3b086ad97eb4fa6934aadd5777ca9073b8f06252b6fddafde1febf2ccd",
+        "sha256_vtt": "49f3fd2d92384276400e263b7e15e577355ac5f41d2914870642dc423886a9f7",
+        "source_file": "TOtC_W4_Oportunidad_Productividad_ES_Speaker_Notes_Storyboard(2).mp4",
+        "source_sha256": "688942d7f76ef08a9a6200379c929be2bc0b3850aae3eab1fc5142688738a3f6"
       }
     },
     "w5": {
@@ -174,15 +188,17 @@
       },
       "es": {
         "status": "approved",
-        "version": "kokoro-2026-10-27",
-        "narrator": "kokoro:em_alex",
-        "duration_s": 52.57,
+        "version": "director-es-2026-10-27",
+        "narrator": "director-supplied",
+        "duration_s": 50.48,
         "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w5/es/onboarding-w5-transformation-starts-here-es.mp4",
         "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w5/es/onboarding-w5-transformation-starts-here-es.vtt",
         "poster": "https://media.rutamethod.com/totc/onboarding-videos/w5/es/onboarding-w5-transformation-starts-here-es-poster.png",
         "captionsLanguage": "es",
-        "sha256_mp4": "7464a2806b9aa18ebc28f586b07cd94bbaf88440953631a6e64daba6ec2e5719",
-        "sha256_vtt": "6838cdf16f1196c9fa35317ee1d60bdce8f7d2306991cca819e775930ace72b4"
+        "sha256_mp4": "9826a37b049a0ba95040f95a041c36a326fd1014665cb8aa505b02cae2c3af76",
+        "sha256_vtt": "a39a7e0892bc68da8fdb3e126e64e56cb557dd788976e9a1fe2ff3b1c148fad6",
+        "source_file": "TOtC_W5_Tu_Transformacion_ES_Speaker_Notes_Storyboard.mp4",
+        "source_sha256": "a2963d311d327df726f336799d533053068475d498228e843acfed79a34ebc02"
       }
     }
   }

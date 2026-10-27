@@ -1,9 +1,1 @@
-Narrator: kokoro:em_alex
-
-¡Bienvenido a Think Outside the Chat!
-
-Ya usas la inteligencia artificial. Ahora es momento de descubrir todo lo que puede hacer por ti.
-
-Durante las próximas diez horas de entrenamiento, aprenderás a trabajar de forma más inteligente, crear resultados útiles y, con el tiempo, delegar trabajo a agentes de inteligencia artificial.
-
-Primero, vamos a conocerte y descubrir tu punto de partida.
+Te damos la bienvenida a tu transformación. Prepárate para comenzar este viaje en Think Outside the Chat™, donde nos enfocamos en tu preparación y crecimiento práctico. Es muy probable que ya utilices inteligencia artificial en tu día a día, pero es momento de dar el siguiente paso y descubrir realmente todo lo que esta tecnología puede hacer por ti. A lo largo de nuestras próximas 10 horas de recorrido, seguiremos un proceso claro. Aprenderás nuevas habilidades, implementarás soluciones eficaces y finalmente, aprenderás a delegar tareas complejas a agentes de inteligencia artificial. Para comenzar con éxito, primero vamos a conocerte un poco mejor y establecer cuál es tu punto de partida en esta experiencia de aprendizaje.

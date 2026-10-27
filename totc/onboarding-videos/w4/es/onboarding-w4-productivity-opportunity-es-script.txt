@@ -1,13 +1,1 @@
-Narrator: kokoro:em_alex
-
-Ahora puedes ver cuánto tiempo podría estar costándote tu AI Intent Gap.
-
-Y lo más importante: puedes explorar cuánto de ese tiempo podrías recuperar si trabajas de forma más efectiva con la IA.
-
-Primero te mostraremos las horas potenciales y después un valor estimado de ese tiempo.
-
-También puedes explorar un ejemplo independiente de cómo la automatización supervisada con IA podría ayudarte con el trabajo repetitivo.
-
-Son ilustraciones, no ahorros garantizados.
-
-Después de tu entrenamiento, volveremos a medir tu AI Intent Gap y lo compararemos con tu punto de partida.
+A partir de tus respuestas, el sistema visualiza la fricción en tu flujo de trabajo. Vamos a analizar cuánto tiempo podrías recuperar al optimizar tus procesos actuales, basándonos en estimaciones y supuestos claros. Comencemos con el tiempo. Si estimamos, por ejemplo, 163 horas anuales de fricción, una recuperación del 65% nos daría 106 horas potenciales. Recuerda que esto es un escenario ilustrativo, no una garantía. Veamos el valor asociado. Si asignamos un valor de 50 dólares por hora, esas 106 horas representan cerca de 5,300 dólares. Esta es una referencia económica útil, pero no representa dinero real recuperado. Nuestro objetivo principal es aprender mediante el ciclo de medir, implementar y comparar. Al finalizar el entrenamiento, contrastaremos estos indicadores iniciales con tu progreso real para evaluar tu evolución constante.
