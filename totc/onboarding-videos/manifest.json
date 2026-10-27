@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "2026.10.27-review-kokoro",
+  "manifestVersion": "2026.10.27-1",
   "base": "https://media.rutamethod.com/totc/onboarding-videos",
   "languages": [
     "en",
@@ -33,7 +33,7 @@
         "es": "Bienvenido a tu viaje de aprendizaje"
       },
       "en": {
-        "status": "pending-release",
+        "status": "approved",
         "version": "kokoro-2026-10-27",
         "narrator": "kokoro:am_michael",
         "duration_s": 31.46,
@@ -45,7 +45,7 @@
         "sha256_vtt": "cc679f7f6f25d437b6a30b028e235875b6f6abf6cffadafc95e80ac7194b404e"
       },
       "es": {
-        "status": "pending-release",
+        "status": "approved",
         "version": "kokoro-2026-10-27",
         "narrator": "kokoro:em_alex",
         "duration_s": 34.81,
@@ -65,7 +65,7 @@
         "es": "Tu experiencia con la IA"
       },
       "en": {
-        "status": "pending-release",
+        "status": "approved",
         "version": "kokoro-2026-10-27",
         "narrator": "kokoro:am_michael",
         "duration_s": 45.1,
@@ -77,7 +77,7 @@
         "sha256_vtt": "2b0cbf3682074a76e162585831d7d30dc8efa71e5bd2c66236032d76a0d745e2"
       },
       "es": {
-        "status": "pending-release",
+        "status": "approved",
         "version": "kokoro-2026-10-27",
         "narrator": "kokoro:em_alex",
         "duration_s": 46.24,
@@ -97,7 +97,7 @@
         "es": "Mide tu AI Intent Gap"
       },
       "en": {
-        "status": "pending-release",
+        "status": "approved",
         "version": "kokoro-2026-10-27",
         "narrator": "kokoro:am_michael",
         "duration_s": 48.36,
@@ -109,7 +109,7 @@
         "sha256_vtt": "ef415ec7593d830f7e7bee90c3eb1a1bbe30cac87fb049cf9e4aa8594076bc74"
       },
       "es": {
-        "status": "pending-release",
+        "status": "approved",
         "version": "kokoro-2026-10-27",
         "narrator": "kokoro:em_alex",
         "duration_s": 48.51,
@@ -129,7 +129,7 @@
         "es": "Tu oportunidad de productividad"
       },
       "en": {
-        "status": "pending-release",
+        "status": "approved",
         "version": "kokoro-2026-10-27",
         "narrator": "kokoro:am_michael",
         "duration_s": 46.93,
@@ -141,7 +141,7 @@
         "sha256_vtt": "71698c57da662f88b7c32629e32f64d217eb1a7facd08d6d4e5dc53201503c96"
       },
       "es": {
-        "status": "pending-release",
+        "status": "approved",
         "version": "kokoro-2026-10-27",
         "narrator": "kokoro:em_alex",
         "duration_s": 47.74,
@@ -161,7 +161,7 @@
         "es": "Tu transformación comienza aquí"
       },
       "en": {
-        "status": "pending-release",
+        "status": "approved",
         "version": "kokoro-2026-10-27",
         "narrator": "kokoro:am_michael",
         "duration_s": 52.67,
@@ -173,7 +173,7 @@
         "sha256_vtt": "47dd3b2f82b0ccbcac120bcab89c72b856d973e5bd79d9b705a45b806edfc840"
       },
       "es": {
-        "status": "pending-release",
+        "status": "approved",
         "version": "kokoro-2026-10-27",
         "narrator": "kokoro:em_alex",
         "duration_s": 52.57,
