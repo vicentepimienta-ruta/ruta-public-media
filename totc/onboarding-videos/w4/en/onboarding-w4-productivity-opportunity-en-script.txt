@@ -1,13 +1,1 @@
-Narrator: kokoro:am_michael
-
-Now you can see what your AI Intent Gap may be costing you in time.
-
-More importantly, you can explore how much of that time you might recover by working more effectively with AI.
-
-We'll show the potential hours first, followed by an estimated value of that time.
-
-You may also explore a separate example of how supervised AI automation could help with repetitive work.
-
-These are illustrations, not guaranteed savings.
-
-After your training, we'll measure your AI Intent Gap again and compare it with your starting point.
+Let's explore your productivity opportunity. By identifying current friction in your daily workflow, we can uncover significant amounts of time that could be recovered for more meaningful work. To get started, we look at the time. For example, if you face 163 hours of friction annually, a 65% recovery rate could return over 100 hours to your schedule. Once we identify the time, we consider the value. Using a rate of $50 per hour, recovering those 106 hours represents a potential value of $5,300 annually. Finally, we learn, implement, and compare. Avoid double-counting your gains. After your 10 hours of instructor-led training, we will evaluate your actual results against these initial estimates.

@@ -1,13 +1,1 @@
-Narrator: kokoro:am_michael
-
-You already use AI. But how you use it matters.
-
-Maybe you ask questions, create content, analyze information, or use AI to support your daily work.
-
-In this step, we'll learn which tools you use, what you use them for, and how you interact with them.
-
-We'll also ask approximately how many times you use AI during a working day.
-
-There are no right or wrong answers. Just choose what best describes you today.
-
-Your answers will help us personalize your training and establish your starting point.
+Before we begin your training, let's take a moment to look at your current AI experience. Think about how you are using these tools today, rather than how you plan to use them later. Consider the specific tasks you currently handle with AI. Whether it's research, writing, summarizing documents, or brainstorming new ideas, identify the uses that best reflect your actual day-to-day work. Next, reflect on your frequency of use. Establishing your current habits provides our baseline, so provide an honest estimate of how often you interact with AI tools to help guide your upcoming training. Your learning journey is personal. As you prepare to move from learning and implementing to delegating, these insights ensure your 10 hours of instructor-guided training are tailored to your needs.

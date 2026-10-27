@@ -1,13 +1,1 @@
-Narrator: kokoro:am_michael
-
-Sometimes, AI doesn't deliver the result you expected.
-
-You may spend extra time correcting answers, rewriting instructions, or starting over.
-
-That lost time is your AI Intent Gap.
-
-In this step, we'll estimate it using a few simple questions about your daily AI use, unsuccessful results, and the time spent correcting them.
-
-Use your best estimates. They don't need to be perfect.
-
-This gives us a starting point. After your ten training hours, we'll measure your AI Intent Gap again to compare the results and establish your progress.
+Let's begin by defining your AI intent gap. This is simply the distance between what you expect to achieve with artificial intelligence and the results you are actually seeing today. To establish your baseline, please complete the four inputs provided on screen. Use your recent experience as a general guide. We are looking for estimates, not perfect data points. Next, identify the friction points in your workflow. Focus on time loss to repetition, manual adjustments, or correcting AI outputs. And be sure to track these separately from your total usage time. Finally, review your four answers. These are a reference point to help us measure your progress later, rather than a formal grade. You are now prepared to move forward.
