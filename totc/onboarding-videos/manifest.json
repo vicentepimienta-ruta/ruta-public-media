@@ -1,0 +1,37 @@
+{
+  "manifestVersion": "2026.10.26-1",
+  "base": "https://media.rutamethod.com/totc/onboarding-videos",
+  "languages": ["en", "es"],
+  "videos": {
+    "w1": {
+      "step": 1,
+      "title": {"en": "Welcome to Your Learning Journey", "es": "Bienvenido a tu viaje de aprendizaje"},
+      "en": {
+        "status": "approved",
+        "version": "clean-voice-2026-10-26",
+        "duration_s": 29.8,
+        "mp4": "https://media.rutamethod.com/totc/onboarding-videos/w1/en/onboarding-w1-welcome-en.mp4",
+        "vtt": "https://media.rutamethod.com/totc/onboarding-videos/w1/en/onboarding-w1-welcome-en.vtt",
+        "poster": "https://media.rutamethod.com/totc/onboarding-videos/w1/en/onboarding-w1-welcome-en-poster.png",
+        "sha256_mp4": "e2b5754eeb1729742ea31df98c25e13f39f41ab48a93acccaf3e262f61dfcb70"
+      },
+      "es": {"status": "not-produced"}
+    },
+    "w2": {
+      "step": 2,
+      "title": {"en": "Your AI Experience", "es": "Tu experiencia con IA"},
+      "en": {
+        "status": "staged-pending-approval",
+        "version": "2026-10-26",
+        "duration_s": 38.0,
+        "stagedBranch": "staging-totc-w2-en",
+        "stagedPath": "totc/onboarding-videos/w2/en/onboarding-w2-ai-experience-en.mp4",
+        "sha256_mp4": "aecc85506a1cdde55495badf57dcf69c6c2ff6cd82fbf34d94e2aae576926f2b"
+      },
+      "es": {"status": "not-produced"}
+    },
+    "w3": {"step": 3, "title": {"en": "Your Productivity Baseline", "es": "Tu línea base de productividad"}, "en": {"status": "not-produced"}, "es": {"status": "not-produced"}},
+    "w4": {"step": 4, "title": {"en": "Your Productivity Opportunity", "es": "Tu oportunidad de productividad"}, "en": {"status": "not-produced"}, "es": {"status": "not-produced"}},
+    "w5": {"step": 5, "title": {"en": "Your Next Steps", "es": "Tus próximos pasos"}, "en": {"status": "not-produced"}, "es": {"status": "not-produced"}}
+  }
+}
