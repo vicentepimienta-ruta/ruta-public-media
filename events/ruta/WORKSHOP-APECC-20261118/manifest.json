@@ -1,5 +1,5 @@
 {
-  "manifestVersion": "2026.11.20-1",
+  "manifestVersion": "2026.11.20-2",
   "eventId": "WORKSHOP-APECC-20261118",
   "partnerId": "APECC",
   "base": "https://media.rutamethod.com/events/ruta/WORKSHOP-APECC-20261118",
@@ -40,7 +40,48 @@
         "partner": "Director-attested APECC permission through its contract; contract wording not independently confirmed",
         "scope": "APECC event promotion, this event and partner only; no cross-event or partner-free reuse"
       },
-      "supersedes": "V3 private review (not published); a burned-in review label was removed, no other change"
+      "supersedes": "V3 private review (not published); a burned-in review label was removed, no other change",
+      "orientation": "portrait 9:16",
+      "companion": "post-event-film-v3-1-landscape"
+    },
+    "post-event-film-v3-1-landscape": {
+      "title": "APECC Miami post-event testimonial film (landscape)",
+      "version": "V3.1",
+      "status": "approved",
+      "released": "2026-11-20",
+      "language": "es",
+      "format": "1920x1080 landscape, 30 fps, H.264/AAC, faststart",
+      "duration_s": 46.73,
+      "mp4": "https://media.rutamethod.com/events/ruta/WORKSHOP-APECC-20261118/post-event-workshop-apecc-20261118-miami-source-based-ai-v3-1-landscape.mp4",
+      "bytes": 37333249,
+      "sha256_mp4": "d8fe8b1009575924a01c779242513bb6f193345ebd7882d6bfcfa5a02f89d17c",
+      "sources": {
+        "testimonials": [
+          "S01",
+          "S02",
+          "S03",
+          "S04",
+          "S05",
+          "S07"
+        ],
+        "excluded": [
+          "S06"
+        ],
+        "custody": "original recordings remain in Google Drive, not published here"
+      },
+      "partnerAssets": "event flyer and APECC logo from this repository, unaltered",
+      "closingBumper": "TOtC closing bumper with AI-generated voiceover",
+      "rights": {
+        "basis": "Director-attested",
+        "testimonials": "Director-attested voluntary on-camera testimonials for commercial use; individual written releases not independently inspected",
+        "partner": "Director-attested APECC permission through its contract; contract wording not independently confirmed",
+        "scope": "APECC event promotion, this event and partner only; no cross-event or partner-free reuse"
+      },
+      "supersedes": "none; companion of the portrait V3.1, which is unchanged",
+      "orientation": "landscape 16:9",
+      "composition": "native 16:9 layout: full speaker frame (4:5 reframe, no stretch) beside large captions on white, same cuts, captions text and timing, audio and closing bumper as the portrait",
+      "companion": "post-event-film-v3-1"
     }
-  }
+  },
+  "outputPolicy": "Every event production cycle delivers two public videos: portrait 9:16 (1080x1920) and landscape 16:9 (1920x1080)."
 }
