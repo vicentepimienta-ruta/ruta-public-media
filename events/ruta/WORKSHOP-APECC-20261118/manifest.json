@@ -1,0 +1,46 @@
+{
+  "manifestVersion": "2026.11.20-1",
+  "eventId": "WORKSHOP-APECC-20261118",
+  "partnerId": "APECC",
+  "base": "https://media.rutamethod.com/events/ruta/WORKSHOP-APECC-20261118",
+  "statusLegend": {
+    "approved": "released by the Director and served"
+  },
+  "videos": {
+    "post-event-film-v3-1": {
+      "title": "APECC Miami post-event testimonial film",
+      "version": "V3.1",
+      "status": "approved",
+      "released": "2026-11-20",
+      "language": "es",
+      "format": "1080x1920 portrait, 30 fps, H.264/AAC, faststart",
+      "duration_s": 46.73,
+      "mp4": "https://media.rutamethod.com/events/ruta/WORKSHOP-APECC-20261118/post-event-workshop-apecc-20261118-miami-source-based-ai-v3-1.mp4",
+      "bytes": 56904964,
+      "sha256_mp4": "6763531018540d7ac3b952817ab5ff35c48e47df76d80288e6ad89c3d93aec6e",
+      "sources": {
+        "testimonials": [
+          "S01",
+          "S02",
+          "S03",
+          "S04",
+          "S05",
+          "S07"
+        ],
+        "excluded": [
+          "S06"
+        ],
+        "custody": "original recordings remain in Google Drive, not published here"
+      },
+      "partnerAssets": "event flyer and APECC logo from this repository, unaltered",
+      "closingBumper": "TOtC closing bumper with AI-generated voiceover",
+      "rights": {
+        "basis": "Director-attested",
+        "testimonials": "Director-attested voluntary on-camera testimonials for commercial use; individual written releases not independently inspected",
+        "partner": "Director-attested APECC permission through its contract; contract wording not independently confirmed",
+        "scope": "APECC event promotion, this event and partner only; no cross-event or partner-free reuse"
+      },
+      "supersedes": "V3 private review (not published); a burned-in review label was removed, no other change"
+    }
+  }
+}
