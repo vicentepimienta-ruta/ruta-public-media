@@ -1,0 +1,19 @@
+{
+  "copyVersion": "V3-HCC-R2",
+  "eventId": "BC12-HHCC-20261023",
+  "execId": "X20261125190843-a63c06",
+  "packageSha256": "256fcb013dc87a1cebc595279f8ba5b8b1ffae7512e1040b1d9935af1b2d832a",
+  "schema": "ruta.distribution_manifest/1",
+  "videos": {
+    "landscape": {
+      "bytes": 26017227,
+      "sha256": "a188b7f95abcaa2446632d87d11f079e15b2d36ff9f084eeb61a19c53f96598b",
+      "url": "https://media.rutamethod.com/events/ruta/BC12-HHCC-20261023/landscape.mp4"
+    },
+    "portrait": {
+      "bytes": 62518467,
+      "sha256": "06953486c9bd24dbf9c920e507ccf2dc3080aa6410ac314ddc732137428ab7d9",
+      "url": "https://media.rutamethod.com/events/ruta/BC12-HHCC-20261023/portrait.mp4"
+    }
+  }
+}
